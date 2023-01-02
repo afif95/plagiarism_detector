@@ -1,6 +1,6 @@
 # Among the sample data, I have considered 1.txt as the source file and 2.txt as the file being checked.
 
-# run the 40202952_detector.py using the Makefile in the terminal; for example: make FILE1=<path>/plagiarism06/1.txt FILE2=<path>/plagiarism06/2.txt run
+# run the detector.py using the Makefile in the terminal; for example: make FILE1=<path>/plagiarism06/1.txt FILE2=<path>/plagiarism06/2.txt run
 
 # It will generate output 1 for plagiarised text and 0 for non-plagiarised text.
 
